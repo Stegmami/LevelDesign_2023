@@ -19,9 +19,18 @@ for players.
 - Communicate & present game designs from concept to finished form.
 
 ### Class Syllabus
-- PDF is [here](https://drive.google.com/file/d/1Y2vieoyDVJZ7PSjuz-w4uXxwe5_jBJt9/view?usp=share_link)
+PDF is [here](https://docs.google.com/document/d/14MWW3DVEj2ji-mtOWTNhpTAmyzexUansdoelNbgsfjc/edit?usp=sharing) 
+
+### Turn in your devLogs 
+
+(Turn in all your homework as part of your DevLog except GDD and Unity Projects in this Googkle Folder:) [here](https://drive.google.com/drive/folders/1mZF34rJRLyvDaWPvpbrqLx2YQPJGt3Sd?usp=share_link)
+
+### You Tube Playlist I am making for us
+
+[YouTube Videos Chosen (and possibly made for) you](https://www.youtube.com/watch?v=wn27AGuE49A&list=PL67Pl4-7H_JDZ1e6PCAGYAAyySk9WAVjc)
 
 ### Software Versions
+
 - Class materials developed using Unity 2021.3.8 or above
 
 
