@@ -50,15 +50,18 @@ Flint Dille [The Ultimate Guide to Game Wroting and Design](https://mica.primo.e
 
 ##### Part A. In class.  Today in the GameLab, we will play games!
 
-​	Make sure you play both games
+​	Make sure you play all three games
 ​               Flow (On the Play Station 3), 				
 ​               [Immune Defense free PC game](MelanieAnnS.itch.io/immune-defense), You can install it on any PC
+​				Everything Is Going to Be OK     is on Itch at Alienmelon.itch.io
+
+
 
 Answer one of the following
 
 1) Choose one of the games and create a diagram you think would be useful for designing novel levels in this game. Describe what you think the User Experience goals were for the project, who is the audience? How does this game convey information to the player? How does the player know what to do?
-2) Compare Flow and Immune Defense. How do they convey information? Which game compels you to play longer? Why? Can you engage a player as effectively with no instructions? How does failing help the player learn? How does each game handle failure? 
-3) What would you do to improve one of these games?  
+2) Compare two of the games. How do they convey information? Which game compels you to play longer? Why? Can you engage a player as effectively with no instructions? How does failing help the player learn? How does each game handle failure? 
+3) What would you do to improve one of these games?  When you watch other people play the game, what do you notice?
 
 ##### Part B 
 
