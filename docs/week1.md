@@ -5,13 +5,13 @@
 
   - Name, pronouns, things that inspire you
 
-- Discuss this class ([Syllabus]() and our Expectations)
+- Discuss this class ([Syllabus](https://docs.google.com/document/d/14MWW3DVEj2ji-mtOWTNhpTAmyzexUansdoelNbgsfjc/edit?usp=sharing) and our Expectations)
 
 - Play some innovative games
 
-- Discuss innovation: what pracitces foster innovation?
+- Discuss innovation: what practises foster innovation?
 
-  - Time management
+  - Time management/Money Management
 
   - Formal Abstract Game Design Tools
 
@@ -42,20 +42,18 @@ Game Design diagrams, spreadsheets, tables, and other game design tools (see the
 # Textbooks
 
 I found these books very useful and inspiring. They are worth your money.
-Richard Lemarchand [A Playful Production Process](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991001318649405741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&tab=Books&query=any,contains,lemarchand&offset=0)
-Jesse Schell [Game Design: A Book of Lenses](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000144879705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Books&query=any,contains,schell&sortby=date_d&facet=frbrgroupid,include,9043480246430191355&offset=0)
-Flint Dille [The Ultimate Guide to Game Wroting and Design](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000634459705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&tab=Books&query=any,contains,ultimate%20guide%20to%20game%20design&offset=0)
+Richard Lemarchand [A Playful Production Process](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991001318649405741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&tab=Books&query=any,contains,lemarchand&offset=0)<br>
+Jesse Schell [Game Design: A Book of Lenses](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000144879705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Books&query=any,contains,schell&sortby=date_d&facet=frbrgroupid,include,9043480246430191355&offset=0)<br>
+Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000634459705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&tab=Books&query=any,contains,ultimate%20guide%20to%20game%20design&offset=0)<br>
 
 # Homework
 
 ##### Part A. In class.  Today in the GameLab, we will play games!
 
-​	Make sure you play all three games
-​               Flow (On the Play Station 3), 				
-​               [Immune Defense free PC game](MelanieAnnS.itch.io/immune-defense), You can install it on any PC
-​				Everything Is Going to Be OK     is on Itch at Alienmelon.itch.io
-
-
+​	Make sure you <b>play all three games:</b><b><br>
+​            Flow (On the Play Station 3 in the GameLab)<br>
+​            [Immune Defense](https://melanieanns.itch.io/)    MelanieAnnS.itch.io  Install it on any PC.  Is on the GameLab PC!<br>
+​			[Everything Is Going to Be OK](https://alienmelon.itch.io/)   Alienmelon.itch.io.  Is on the PC in GameLab
 
 Answer one of the following
 
@@ -63,13 +61,13 @@ Answer one of the following
 2) Compare two of the games. How do they convey information? Which game compels you to play longer? Why? Can you engage a player as effectively with no instructions? How does failing help the player learn? How does each game handle failure? 
 3) What would you do to improve one of these games?  When you watch other people play the game, what do you notice?
 
-##### Part B 
+##### Part B Do All of These:
 
 1. Think about what kinds of level design you are interested in. Consider what kind of diagrams, spreadsheets or other gane design tools you would like to use to design the game levels you imagine.
 2. Read this to prepare for our discussion in class next week. We will be focusing on creating a space and allowing our player to navigate through it. [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/)
-3. Choose a game that is similar to one you might like to make, and play it.  Be ready to talk about it next week.
+3. Choose a game that is similar to one you might like to make, and <b>play it</b>.  Be ready to talk about it next week.
 
 
-Part A and B Due in class next week.  Put it all into your DevLog document, unless you make a diagram. 
+Part A and B Due in class next week.  Put it all into your DevLog document, unless you make a diagram, you can make a separate doc for diagrams if you want to. 
 
 Remember, work in short, frequent sessions.  Three 2-hour sessions Wed, Fri, Tues for example. Write your tasks down in your DevLog. So you always know what to do before you start. At end of each work session, update your task list.   
