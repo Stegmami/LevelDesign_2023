@@ -1,7 +1,7 @@
 ## Level Design (GMD 320.01)
 
 ### About
-This is the class site for Level Design, taught in the Game Design program by Sam Sheffield (ssheffield@mica.edu).
+This is the class site for Level Design, taught in the MICA Game Design program by Melanie Stegman, Ph.D. (MStegman@mica.edu).
 
 ### Course Description
 Students learn how to hone their skills in creating compelling level design. Working with level editors as well as student made assets, topics covered include setting player goals, planning player paths, assets optimization, procedural generated levels and quest design.
