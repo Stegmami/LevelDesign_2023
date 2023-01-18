@@ -1,25 +1,72 @@
-# W E L C O M E &nbsp; B A C K ! !
-So excited to welcome you all back. Today, we'll meet as a group to...
-- Say hello!
-- Discuss this class ([Syllabus](https://docs.google.com/document/d/132CrDZhnPa9t9ApqyYeD_FbvqzooSSl86dvlHDPi5S8/edit?usp=sharing), Hybrid structure, Expectations and responsibilities)
-- Any other concerns or questions? (This class, this semester, ...uhh, averything!)
+# W E L C O M E 
+- Introduce ourselves. 
 
-__Homework__
-- Join the class Discord server ([link](https://discord.gg/KVQJBdHbeK)) and the MICA Game Lab Discord server([link](https://discord.gg/hpGgwpX8sQ)). Set your server nickname to what you want to be called in class and then...
+- Make some Name plates for our desks
 
-## Introduce yourself
-Introduce yourself on the class Discord:
-- Name and pronouns ("Hi, I'm Sam (he/him)")
-- Your major and year ("Game Design Senior")
-- One example of a game you worked on recently (Include a link to a working build or a short video)
-- One example of a game you played recently and a brief thought on it ("I've played a little Wordle recently and was interested in the idea of making a game for another person. It also reminds me of this game show called Lingo which I used to enjoy.")
-- One example of something you're interested that is not related to games (Include a link to an example)
+  - Name, pronouns, things that inspire you
 
-## Update Unity
-Let's standardize our primary tool for this class. This will make it easier to collaborate and get help. As of the start of the semester this is 2021.2.8, which can be installed using Unity Hub. If you have a new M1 Mac, make sure to install the Silicon version, otherwise, some of our tools (like Probuilder) will be really miserable to use!
+- Discuss this class ([Syllabus]() and our Expectations)
 
-*Note: it's okay/normal to have multiple Unity installations on your computer. Just be sure to select 2021.2.8 when you create a new project in Unity Hub.
+- Play some innovative games
 
-## Read The History of the Level Designer
-Read this short chapter from The Level Design Book, which provides a very specific overview of early computer game level design.
-- [Here is a link to the pdf](https://drive.google.com/file/d/115gzN18dupkvFe-tCarKzo67QzIL33le/view?usp=sharing)
+- Discuss innovation: what pracitces foster innovation?
+
+  - Time management
+
+  - Formal Abstract Game Design Tools
+
+  - Iteration: Experimentation that sometimes is wrong but necessary
+
+    
+
+
+## Expectations we will share in this class
+
+Three projects and one bonus project. In Unity: not polished nor finished art-wise but just enough to demonstrate that your level design plan is working.  It is most important that you respond to playtesting data in your design docs and Unity projects.
+
+|             | Total % of grade | # todo | Each Worth this % of final grade |                                                              |
+| ----------- | ---------------- | ------ | -------------------------------- | ------------------------------------------------------------ |
+| Learning    | 20%              | 16     | 1.25                             | 16 weeks of DevLog. See template.                            |
+| Making      | 40%              | 4      | 10                               | 4 Projects: You will bring 3 drafts of each to be play tested in class. Iteration is expected. I want to see how you respond to playtesting and discussions. |
+| Documenting | 40%              | 4      | 10                               | Spreadsheets, Sketches, Maps, Information Tables, Flow chart, Storyboard/BME. <br>At least one for each project, and iteration is expected.  Game Design artifacts are art: a well design table of spacial location of information, *chef's kiss! |
+
+DevLog [Here is a template](https://docs.google.com/document/d/1CDWP6xeKgvqE7Z0IDmKYJgE2VyMOTsafTvgbygd6M2E/edit?usp=sharing) Make a copy, name it YourLastName_DevLog_23_0118, share it with me. This one long doc will contain your class notes, game design documentation, task list, work session notes, notes on readings and writing for homework.
+
+Game Design diagrams, spreadsheets, tables, and other game design tools (see the readings below).
+
+# Some Introductory Readings
+- [Some history of Level Design: A short chapter from The Level Design Book, a very specific overview of early computer game level design.](https://drive.google.com/file/d/115gzN18dupkvFe-tCarKzo67QzIL33le/view?usp=sharing)
+- [Doug Church describing why we need Design Tools](https://www.gamedeveloper.com/design/formal-abstract-design-tools) (Spoiler: to make more unique games)!
+- [Katharine Neil speaking at GDC](https://www.youtube.com/watch?v=XPPtLNkVPWY) about the design tools that would push game design forward. She says game design tools should "support thinking.  So your broken, ambiguous and even outright contradictory ideas that you have in your unfinished design ... are tolerated and supported "  Katherine Neil game example: [Astrologaster](https://store.steampowered.com/app/742520/Astrologaster/) .
+
+# Textbooks
+
+I found these books very useful and inspiring. They are worth your money.
+Richard Lemarchand [A Playful Production Process](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991001318649405741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&tab=Books&query=any,contains,lemarchand&offset=0)
+Jesse Schell [Game Design: A Book of Lenses](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000144879705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Books&query=any,contains,schell&sortby=date_d&facet=frbrgroupid,include,9043480246430191355&offset=0)
+Flint Dille [The Ultimate Guide to Game Wroting and Design](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000634459705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local%20Search%20Engine&tab=Books&query=any,contains,ultimate%20guide%20to%20game%20design&offset=0)
+
+# Homework
+
+##### Part A. In class.  Today in the GameLab, we will play games!
+
+​	Make sure you play both games
+​               Flow (On the Play Station 3), 				
+​               [Immune Defense free PC game](MelanieAnnS.itch.io/immune-defense), You can install it on any PC
+
+Answer one of the following
+
+1) Choose one of the games and create a diagram you think would be useful for designing novel levels in this game. Describe what you think the User Experience goals were for the project, who is the audience? How does this game convey information to the player? How does the player know what to do?
+2) Compare Flow and Immune Defense. How do they convey information? Which game compels you to play longer? Why? Can you engage a player as effectively with no instructions? How does failing help the player learn? How does each game handle failure? 
+3) What would you do to improve one of these games?  
+
+##### Part B 
+
+1. Think about what kinds of level design you are interested in. Consider what kind of diagrams, spreadsheets or other gane design tools you would like to use to design the game levels you imagine.
+2. Read this to prepare for our discussion in class next week. We will be focusing on creating a space and allowing our player to navigate through it. [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/)
+3. Choose a game that is similar to one you might like to make, and play it.  Be ready to talk about it next week.
+
+
+Part A and B Due in class next week.  Put it all into your DevLog document, unless you make a diagram. 
+
+Remember, work in short, frequent sessions.  Three 2-hour sessions Wed, Fri, Tues for example. Write your tasks down in your DevLog. So you always know what to do before you start. At end of each work session, update your task list.   
