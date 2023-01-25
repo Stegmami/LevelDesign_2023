@@ -45,5 +45,3 @@ These don't need to be the most interesting or precious combinations of things. 
 
 
 
-I am working on a GDD Template for you.  
-

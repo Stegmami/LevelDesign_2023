@@ -28,6 +28,32 @@ Turn in all your homework as part of your DevLog except GDD and Unity Projects i
 - Class materials developed using Unity 2021.3.8 or above
 
 
+
 # Weekly Class Notes
+
 - [Week 1: Welcome, Class Overview, Q&A](week1.md)
 - [Week 2: Game Design Documnentation](week2.md)
+
+
+
+# Schedule
+
+|      | Level Design                      | Game Studies                        | Iterative  Design | Documents               | Project                      |
+| ---- | --------------------------------- | ----------------------------------- | ----------------- | ----------------------- | ---------------------------- |
+| 1    | Wednesday, January 18, 2023       | Play some games                     |                   |                         |                              |
+| 2    | Wednesday, January 25,  2023      | Retrofit a Game  Diagrm onto a game |                   |                         | Level Design Exercize  1     |
+| 3    | Wednesday, February 1,  2023      |                                     |                   | Paper Draft of a  level | Level Design Exercize  1     |
+| 4    | Wednesday, February 8,  2023      |                                     | playtest          | First draft in Unity    | Level Design Exercize  1     |
+| 5    | Wednesday, February 15,  2023     |                                     | playtest          | Second raft in Unity    | Level Design Exercize  1     |
+| 6    | **Wednesday, February 22,  2023** | ****                                | playtest          | **Final draft due**     | **Level Design Exercize  1** |
+| 7    | Wednesday, March 1, 2023          | Play some games                     |                   | Paper Draft of a  level | Level Design Exercize  2     |
+| 8    | Wednesday, March 8, 2023          |                                     | playtest          | First Unity draft       | Level Design Exercize  2     |
+| 9    | Wednesday, March 15, 2023         | Spring Break                        | Spring Break      | Spring Break            | Spring Break                 |
+| 10   | **Wednesday, March 22, 2023**     | ****                                | playtest          | **Final draft due**     | **Level Design Exercize  2** |
+| 11   | Wednesday, March 29, 2023         |                                     | playtest          | Paper Draft of a  level | Level Design Exercise  3     |
+| 12   | Wednesday, April 5, 2023          | Play Some Games                     |                   | First Unity draft       | Level Design Exercise  3     |
+| 13   | Wednesday, April 12, 2023         |                                     | playtest          | Second Unity Draft      | Level Design Exercise  3     |
+| 14   | **Wednesday, April 19, 2023**     | ****                                | playtest          | **First Unity draft**   | **Level Design Exercise  3** |
+| 15   | Wednesday, April 26, 2023         |                                     |                   | First Unity draft       | Bonus Project                |
+| 16   | **Wednesday, May 3, 2023**        | ****                                | **playtest**      | **First Unity draft**   | **Bonus Project**            |
+

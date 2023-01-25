@@ -64,7 +64,7 @@ Answer one of the following
 ##### Part B Do All of These:
 
 1. Think about what kinds of level design you are interested in. Consider what kind of diagrams, spreadsheets or other gane design tools you would like to use to design the game levels you imagine.
-2. Read this to prepare for our discussion in class next week. We will be focusing on creating a space and allowing our player to navigate through it. [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/)
+2. Read this to prepare for our discussion in class next week. We will be focusing on creating a space and allowing our player to navigate through it. [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/) 
 3. Choose a game that is similar to one you might like to make, and <b>play it</b>.  Be ready to talk about it next week.
 
 
