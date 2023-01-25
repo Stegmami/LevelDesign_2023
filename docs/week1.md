@@ -70,4 +70,6 @@ Answer one of the following
 
 Part A and B Due in class next week.  Put it all into your DevLog document, unless you make a diagram, you can make a separate doc for diagrams if you want to. 
 
-Remember, work in short, frequent sessions.  Three 2-hour sessions Wed, Fri, Tues for example. Write your tasks down in your DevLog. So you always know what to do before you start. At end of each work session, update your task list.   
+# Remember
+
+Work in short, frequent sessions.  Three 2-hour sessions Wed, Fri, Tues, for example. Write your tasks down in your DevLog. So you always know what to do before you start. At end of each work session, update your task list.   

@@ -8,22 +8,16 @@ Students learn how to hone their skills in creating compelling level design. Wor
 
 ### Course Goals
 - Gain hands-on experience designing & structuring video games
-- Explore different ways of approaching the design of games to create engaging experiences
-for players.
+- Explore different ways of approaching the design of games to create engaging experiences for players.
 - Continue developing a critical vocabulary for discussing video games.
 - Continue building upon digital game development skills.
-
-### Student Learning Outcomes
-- Prototype game levels which challenge and engage players.
-- Analyze & critically discuss the level design of commercial & independent video games.
-- Communicate & present game designs from concept to finished form.
 
 ### Class Syllabus
 PDF is [here](https://docs.google.com/document/d/14MWW3DVEj2ji-mtOWTNhpTAmyzexUansdoelNbgsfjc/edit?usp=sharing) 
 
 ### Turn in your devLogs 
 
-(Turn in all your homework as part of your DevLog except GDD and Unity Projects in this Googkle Folder:) [here](https://drive.google.com/drive/folders/1mZF34rJRLyvDaWPvpbrqLx2YQPJGt3Sd?usp=share_link)
+Turn in all your homework as part of your DevLog except GDD and Unity Projects in this Google Folder: [here](https://drive.google.com/drive/folders/1mZF34rJRLyvDaWPvpbrqLx2YQPJGt3Sd?usp=share_link)
 
 ### You Tube Playlist I am making for us
 
@@ -34,6 +28,6 @@ PDF is [here](https://docs.google.com/document/d/14MWW3DVEj2ji-mtOWTNhpTAmyzexUa
 - Class materials developed using Unity 2021.3.8 or above
 
 
-## Weekly Class Notes
+# Weekly Class Notes
 - Week 1 (01/18):
   - [Welcome, Class Overview, Q&A](week1.md)

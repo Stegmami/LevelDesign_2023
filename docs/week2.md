@@ -1,48 +1,25 @@
 # WHAT IS A LEVEL ? ?
 So excited to welcome you all back. Today, we'll meet as a group to...
 - What is a level? and other working definitions
-- Level Design Construction Kit
-
-## Introduce yourself
-Let's go around the room and introduce ourselves:
-- Name and pronouns ("Hi, I'm Sam (he/him)")
 
 ## What is a level?
-- Some definitions
-- Visual hierarchy and intuition
-- Notes [here](https://docs.google.com/document/d/1Leji7OVc_9DuYgsPoSwm7uGeZD8W0wSBjvyeK6waoUg/edit?usp=sharing)
+- Notes about history of levels [here](https://docs.google.com/document/d/1Leji7OVc_9DuYgsPoSwm7uGeZD8W0wSBjvyeK6waoUg/edit?usp=sharing)
+- In these notes as well are some ideas about how size and color of your surroundings, how we draw the characters, and how that can affect the player/reader.
 
-## Open studio: Level Construction Kit
-- Open studio until 9pm tonight
-- You are welcome to work here or from home (just let me know!)
+## What is a Game Design Document?
 
-**If you work from home you will be required to email me the following at the end of class:**
-- A brief description of what you worked on during open studio hours
-- 3 forms of documentation (screenshots, scripts)
+- a Game Design Documemnt (GDD) is a Representation of Your Game. You can see the whole thing, see whether it is balanced, whether it is too long, too much information, etc. just by looking at the GDD.
+- My suggestion to you is to follow my GDD templates.  [Basic GDD Template](https://docs.google.com/document/d/1hkeD6JVERprsUQ6_DjPkjXYH67kowzMvlsXDGJt3wIE/edit?usp=sharing).  I created this template to demonstrate how you can see what you are missing just by making the GDD.
+- Consider the Experience you intend for you player, the Mechanics/Assets you will use and how you will Assess whether you have succeeded
+- I used Storyboarding Method: Beginning/Middle/End.  Inventory of your Player's Perspective at the Beginning/Middle/End of the game.  Then, consider the player's perspective at the Beginning, Middle and End of the Beginning.
+- I am working on a Fancy Template for our Beginning/Middle/End 
 
+ 
 
-# Homework
+## Level Construction Kit (Getting started building something in Unity)
+You may want to make yourself a kit. As preparation for your level design work, build yourself a level construction set. 
 
-## Two choices this week...
-1. Global Game Jam
-2. Work on Level Construction Kit
-
-If you participate in the GGJ, send me a link to your completed game for homework credit this week. Otherwise, upload a build of your progress on your Level Construction Kit by start of class next week.
-
-### Google Drive
-I'll send you a link to your class Google Drive this week!
-
-## Global Game Jam
-It's that time again! Maybe warm up for the semester with a little project this weekend? With [this super secret (not-so-secret) theme](https://www.youtube.com/watch?v=6on52GnVE0w)?
-- The event kicks off at 5pm on Friday and ends at 5pm on Sunday
-- Head over to the MICA Game Lab Discord if you're looking to join a team!
-- More info and register [here](https://globalgamejam.org/2022/jam-sites/mica-game-lab)
-
-## Level Construction Kit (Due 02/08)
-As preparation for your level design work, you will need to build yourself a level construction set. This kit will provide the framework for your work this semester that you can add to, remix, or combine with others when collaborating.
-
-You will need to create:
-1.  A player character with animations and controller script
+1.  A character with animations and controller script
     - Your player must be able to MOVE. *It's up to you to decide how!*
     - Your player character must have one action (a verb!) through which they can interact with enemies. For instance, it could SHOOT them, REPEL them a limited number of times, or BECOME INTANGIBLE temporarily.
     - Make this a prefab.
@@ -63,12 +40,7 @@ You will need to create:
 ### Some Guidance
 These don't need to be the most interesting or precious combinations of things. They just need to be a starting point for us to do some work together. The more you view them as placeholders, the easier it will be to update/change/replace them as needed. But also don't make them so generic that you can't develop some meaningful relationships between them. *You're really threading a needle with this one!*
 
-#### This is due in two weeks (02/08)
-A test scene in Unity that demonstrates that all of the above work correctly. Not a game.
 
-#### This is due next week if you don't do the GGJ
-A test scene in Unity which shows the progress you made on your kit this week.
 
-#### Testing & uploading
-- Please upload tested Windows/Mac **builds** of your test scene to your class Google Drive folder. If you don't have either a Mac or PC to test your build, use one of ours, or ask for help on our Discord! 
+I am working on a GDD Template for you.  
 
