@@ -4,7 +4,10 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 
 ## What is a level?
 - Notes about history of levels [here](https://docs.google.com/document/d/1Leji7OVc_9DuYgsPoSwm7uGeZD8W0wSBjvyeK6waoUg/edit?usp=sharing)
+
 - In these notes as well are some ideas about how size and color of your surroundings, how we draw the characters, and how that can affect the player/reader.
+
+  
 
 ## What is a Game Design Document?
 
@@ -12,7 +15,7 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 - My suggestion to you is to follow my GDD templates.  [Basic GDD Template](https://docs.google.com/document/d/1hkeD6JVERprsUQ6_DjPkjXYH67kowzMvlsXDGJt3wIE/edit?usp=sharing).  I created this template to demonstrate how you can see what you are missing just by making the GDD.
 - Consider the Experience you intend for you player, the Mechanics/Assets you will use and how you will Assess whether you have succeeded
 - I used Storyboarding Method: Beginning/Middle/End.  Inventory of your Player's Perspective at the Beginning/Middle/End of the game.  Then, consider the player's perspective at the Beginning, Middle and End of the Beginning.
-- I am working on a Fancy Template for our Beginning/Middle/End 
+- Here is a link to a [Fancy Template for our Beginning/Middle/End perspective taking GDD](https://docs.google.com/spreadsheets/d/1Xv30I1VhMmRZYJ5PPiHIJ78d1gW7haCY/edit?usp=share_link&ouid=102518298898107497590&rtpof=true&sd=true)
 
  
 
