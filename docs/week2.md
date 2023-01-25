@@ -45,3 +45,21 @@ These don't need to be the most interesting or precious combinations of things. 
 
 
 
+##### Meet with me, you hard working students
+
+12:00. Moss
+
+12:20. Marissa
+
+12:40  Ethan
+
+ 1:00.  Miranda
+
+ 1:20.  Barbara
+
+ During the week??
+
+
+
+
+

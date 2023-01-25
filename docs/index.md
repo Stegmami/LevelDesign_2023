@@ -28,6 +28,27 @@ PDF is [here](https://docs.google.com/document/d/14MWW3DVEj2ji-mtOWTNhpTAmyzexUa
 
 3) Unity Projects will be turned in on Itch.io.  (WegGL, Mac, PC builds. I can help you)
 
+
+
+### Our Projects: Conveying NON-VERBAL information to your  player
+
+|                                                              |
+| ------------------------------------------------------------ |
+| 1.   Physical way finding                                    |
+| Create a level in which the player will  find their way to the end of the space and then manage to navigate back to  the beginning. |
+| The player sees the same objects, just  coming from the opposite direction. |
+|                                                              |
+| 2. Immersion into the world                                  |
+| Something that happened to the  protagonist of the game in the past. |
+| Something that happened to a character  who is somehow related to the protagonist (for instance: a sibling, friend,  enemy, or rival). |
+| Something about the world in which the  game takes place.    |
+|                                                              |
+| 3. Design a level around a single type of  puzzle. This must accomplish 2 things:     It must first teach a new mechanic to the player. |
+| (If you use a common mechanic like jumping  or shooting, add some novel twist to it!) |
+| After teaching the mechanic, the level  must contain at least two puzzles that rely on understanding of the mechanic  to progress. |
+|                                                              |
+| 4. Your choice                                               |
+
 ### YouTube Playlist I am making for us
 
 [YouTube Videos Chosen (and possibly made for) you](https://www.youtube.com/watch?v=wn27AGuE49A&list=PL67Pl4-7H_JDZ1e6PCAGYAAyySk9WAVjc)
