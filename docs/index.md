@@ -3,29 +3,44 @@
 ### About
 This is the class site for Level Design, taught in the MICA Game Design program by Melanie Stegman, Ph.D. (MStegman@mica.edu).
 
+
+
 ### Course Description
+
 Students learn how to hone their skills in creating compelling level design. Working with level editors as well as student made assets, topics covered include setting player goals, planning player paths, assets optimization, procedural generated levels and quest design.
 
 ### Course Goals
+
 - Gain hands-on experience designing & structuring video games
 - Explore different ways of approaching the design of games to create engaging experiences for players.
 - Continue developing a critical vocabulary for discussing video games.
 - Continue building upon digital game development skills.
 
 ### Class Syllabus
+
 PDF is [here](https://docs.google.com/document/d/14MWW3DVEj2ji-mtOWTNhpTAmyzexUansdoelNbgsfjc/edit?usp=sharing) 
 
-### Turn in your devLogs 
+### Turn in your work
 
-Turn in all your homework as part of your DevLog except GDD and Unity Projects in this Google Folder: [here](https://drive.google.com/drive/folders/1mZF34rJRLyvDaWPvpbrqLx2YQPJGt3Sd?usp=share_link)
+1) Turn in all your homework as part of your DevLog in this Google Folder: [here](https://drive.google.com/drive/folders/1mZF34rJRLyvDaWPvpbrqLx2YQPJGt3Sd?usp=share_link)
 
-### You Tube Playlist I am making for us
+2) Your final GDD will be turned in as stand alone doccument(s) in a folder inside the one above.
+
+3) Unity Projects will be turned in on Itch.io.  (WegGL, Mac, PC builds. I can help you)
+
+### YouTube Playlist I am making for us
 
 [YouTube Videos Chosen (and possibly made for) you](https://www.youtube.com/watch?v=wn27AGuE49A&list=PL67Pl4-7H_JDZ1e6PCAGYAAyySk9WAVjc)
 
 ### Software Versions
 
-- Class materials developed using Unity 2021.3.8 or above
+Class materials developed using Unity 2021.3.8 or above
+
+### Templates for GDD
+
+[Basic GDD Template](https://docs.google.com/document/d/1hkeD6JVERprsUQ6_DjPkjXYH67kowzMvlsXDGJt3wIE/edit?usp=sharing). 
+and 
+[Fancy Template for our Beginning/Middle/End perspective taking GDD](https://docs.google.com/spreadsheets/d/1Xv30I1VhMmRZYJ5PPiHIJ78d1gW7haCY/edit?usp=share_link&ouid=102518298898107497590&rtpof=true&sd=true)
 
 
 
