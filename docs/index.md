@@ -29,5 +29,5 @@ Turn in all your homework as part of your DevLog except GDD and Unity Projects i
 
 
 # Weekly Class Notes
-- Week 1 (01/18):
-  - [Welcome, Class Overview, Q&A](week1.md)
+- [Week 1: Welcome, Class Overview, Q&A](week1.md)
+- [Week 2: Game Design Documnentation](week2.md)
