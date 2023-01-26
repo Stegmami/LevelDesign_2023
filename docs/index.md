@@ -68,28 +68,28 @@ and
 # Weekly Class Notes
 
 - [Week 1: Welcome, Class Overview, Q&A](week1.md)
-- [Week 2: Game Design Documnentation](week2.md)
+- [Week 2: Game Design Documnentation and First Project Details](week2.md)
 
 
 
 # Schedule
 
-|      | Level Design                      | Game Studies                        | Iterative  Design | Documents               | Project                      |
-| ---- | --------------------------------- | ----------------------------------- | ----------------- | ----------------------- | ---------------------------- |
-| 1    | Wednesday, January 18, 2023       | Play some games                     |                   |                         |                              |
-| 2    | Wednesday, January 25,  2023      | Retrofit a Game  Diagrm onto a game |                   |                         | Level Design Exercize  1     |
-| 3    | Wednesday, February 1,  2023      |                                     |                   | Paper Draft of a  level | Level Design Exercize  1     |
-| 4    | Wednesday, February 8,  2023      |                                     | playtest          | First draft in Unity    | Level Design Exercize  1     |
-| 5    | Wednesday, February 15,  2023     |                                     | playtest          | Second raft in Unity    | Level Design Exercize  1     |
-| 6    | **Wednesday, February 22,  2023** | ****                                | playtest          | **Final draft due**     | **Level Design Exercize  1** |
-| 7    | Wednesday, March 1, 2023          | Play some games                     |                   | Paper Draft of a  level | Level Design Exercize  2     |
-| 8    | Wednesday, March 8, 2023          |                                     | playtest          | First Unity draft       | Level Design Exercize  2     |
-| 9    | Wednesday, March 15, 2023         | Spring Break                        | Spring Break      | Spring Break            | Spring Break                 |
-| 10   | **Wednesday, March 22, 2023**     | ****                                | playtest          | **Final draft due**     | **Level Design Exercize  2** |
-| 11   | Wednesday, March 29, 2023         |                                     | playtest          | Paper Draft of a  level | Level Design Exercise  3     |
-| 12   | Wednesday, April 5, 2023          | Play Some Games                     |                   | First Unity draft       | Level Design Exercise  3     |
-| 13   | Wednesday, April 12, 2023         |                                     | playtest          | Second Unity Draft      | Level Design Exercise  3     |
-| 14   | **Wednesday, April 19, 2023**     | ****                                | playtest          | **First Unity draft**   | **Level Design Exercise  3** |
-| 15   | Wednesday, April 26, 2023         |                                     |                   | First Unity draft       | Bonus Project                |
-| 16   | **Wednesday, May 3, 2023**        | ****                                | **playtest**      | **First Unity draft**   | **Bonus Project**            |
+|      | Level Design           | Game Studies                        | Iterative  Design                      | Documents                                                    | Project                      |
+| ---- | ---------------------- | ----------------------------------- | -------------------------------------- | ------------------------------------------------------------ | ---------------------------- |
+| 1    | January 18, 2023       | Play some games                     |                                        |                                                              |                              |
+| 2    | January 25,  2023      | Retrofit a Game  Diagrm onto a game |                                        |                                                              | Level Design Exercize  1     |
+| 3    | February 1,  2023      |                                     | Playtest your GDD as it it were a game | 1. Paper draft of a level design doc<br />2. Technical description of your Unity project | Level Design Exercize  1     |
+| 4    | February 8,  2023      |                                     | playtest                               | 1. 2nd Draft GDD<br>2. First draft of Unity playable         | Level Design Exercize  1     |
+| 5    | February 15,  2023     |                                     | playtest                               | 1. 3rd Draft GDD<br>2. Second draft of Unity playable        | Level Design Exercize  1     |
+| 6    | **February 22,  2023** | ****                                | playtest                               | **Final GDD & Level due**                                    | **Level Design Exercize  1** |
+| 7    | March 1, 2023          | Play some games                     |                                        | 1. Paper draft of a level design doc<br>2. Technical description of your Unity project | Level Design Exercize  2     |
+| 8    | March 8, 2023          |                                     | playtest                               | 1. 2nd Draft GDD<br/>2. First draft of Unity playable        | Level Design Exercize  2     |
+| 9    | March 15, 2023         | Spring Break                        | Spring Break                           | Spring Break                                                 | Spring Break                 |
+| 10   | **March 22, 2023**     | ****                                | playtest                               | **Final draft due**                                          | **Level Design Exercize  2** |
+| 11   | March 29, 2023         |                                     | playtest                               | 1. Paper draft of a level design doc<br />2. Technical description of your Unity project | Level Design Exercise  3     |
+| 12   | April 5, 2023          | Play Some Games                     |                                        | 3. 2nd Draft GDD<br/>4. First draft of Unity playable        | Level Design Exercise  3     |
+| 13   | April 12, 2023         |                                     | playtest                               | . 3rd Draft GDD<br/>2. Second draft of Unity playable        | Level Design Exercise  3     |
+| 14   | **April 19, 2023**     | ****                                | playtest                               | **First Unity draft**                                        | **Level Design Exercise  3** |
+| 15   | April 26, 2023         |                                     |                                        | First Unity draft                                            | Bonus Project                |
+| 16   | **May 3, 2023**        | ****                                | **playtest**                           | **First Unity draft**                                        | **Bonus Project**            |
 
