@@ -10,7 +10,9 @@
 - [ ] Affordances in level design
 - [ ] Laying out your level
 
+INSPIRATION
 
+[Here is a webpage that might help you think of ideas.  It incliudes brainstorming, etc... it is for Puzzle levels, but the process of creation is same: Brainstorm, try things out....](https://www.gamedeveloper.com/design/designing-video-game-puzzles)
 
 ## Affordances
 
