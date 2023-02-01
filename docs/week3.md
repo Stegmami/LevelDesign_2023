@@ -9,11 +9,6 @@
 
 # Homework For Feb 7
 1. 3rd Draft of your Design Doc
-2. First draft of Unity
+2. First draft of Unity project
 
 Remember: goal is a level, not a whole game.  Text you can use paper for.  Your goal is to use spacial cues to guide your player to end of your area and back again.   This about [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/).  
-
-# Homework for Feb 14.  Final 
-
-1. Final Design Doc
-2. Final Unity

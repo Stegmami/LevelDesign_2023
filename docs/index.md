@@ -69,6 +69,8 @@ and
 
 - [Week 1: Welcome, Class Overview, Q&A](week1.md)
 - [Week 2: Game Design Documnentation and First Project Details](week2.md)
+- [Week 3: Working on our Design Docs](week3.md)
+- 
 
 
 
