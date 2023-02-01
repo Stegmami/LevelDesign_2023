@@ -1,24 +1,19 @@
-# Sam is STILL sick :(
-I thought I was going to feel well enough for tonight's class online, but alas... see you next week.
+# Week 3
+- [ ] Find a partner to play test for your design doc. Play test their design doc as well.		
+  Think about these kinds of reasons for making a GDD. **Formal Abstract Design Tools_ by Doug Church ([link](https://drive.google.com/file/d/1omZXDeEflB3Si6YbY5YPPp8NoU3nWBK8/view?usp=sharing)).** We read similar article first week: this one has nice pictures. 
+- [ ] Go over your Unity Development plans with your partner as well. Remember: goal is a level, not a whole game.      Text you can use paper for.  
+  Your goal is to use spacial cues to guide your player to end of your area and back again.    
+- [ ] Watch GDC talk: [Empowering the Player: Level Design in N++](https://www.youtube.com/watch?v=VZ4xevskMCI) (*This is great background working material!*)
+- [ ] ***Meet with ME some time before 2!***
+- [ ] Work session
 
-So let's use the class to introduce some of the concepts we were going to begin discussing anyhow!
-- Watch GDC talk: [Empowering the Player: Level Design in N++](https://www.youtube.com/watch?v=VZ4xevskMCI) (*This is great background working material!*)
-- Read _Formal Abstract Design Tools_ by Doug Church ([link](https://drive.google.com/file/d/1omZXDeEflB3Si6YbY5YPPp8NoU3nWBK8/view?usp=sharing))
-- Complete your Level Design Construction Kit.
+# Homework For Feb 7
+1. 3rd Draft of your Design Doc
+2. First draft of Unity
 
-## Upload Homework
-Haven't uploaded your homework to your class Drive folder yet? Do it first thing for credit:
+Remember: goal is a level, not a whole game.  Text you can use paper for.  Your goal is to use spacial cues to guide your player to end of your area and back again.   This about [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/).  
 
-- __GGJ participant__: Upload a text document with a link to your game and your role(s) in its development
-- __Everyone else__: Build of a test scene which shows homework progress since your last in-person or email check-in. Mac or PC, just make sure the build works. __Do not upload entire Unity Project__.
+# Homework for Feb 14.  Final 
 
-## Open Studio: Complete your Level Construction Kit
-- Use tonight's class time to work towards the completion of your kit.
-- Reminder: I am not asking you to make a specific game or design an interesting/fun/challenging level with these assets just yet.
-- __No email check-in required tonight__
-
-Here's a slightly expanded version the assignment write up again... in handy Google Doc format! Make sure to read it. ([link](https://docs.google.com/document/d/1BZsfk_e8M0k95HDvPzLQ_M7i0Ils5grxYJH_0sXMgNk/edit?usp=sharing))
-
-# Homework
-1. Complete Level Design Construction Kit
-2. Finish reading & GDC talk viewing
+1. Final Design Doc
+2. Final Unity
