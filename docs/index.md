@@ -59,18 +59,31 @@ Class materials developed using Unity 2021.3.8 or above
 
 ### Templates for GDD
 
-[Basic GDD Template](https://docs.google.com/document/d/1hkeD6JVERprsUQ6_DjPkjXYH67kowzMvlsXDGJt3wIE/edit?usp=sharing). 
+[Basic GDD Template](https://docs.google.com/document/d/1hkeD6JVERprsUQ6_DjPkjXYH67kowzMvlsXDGJt3wIE/edit?usp=sharing).  
 and 
 [Fancy Template for our Beginning/Middle/End perspective taking GDD](https://docs.google.com/spreadsheets/d/1Xv30I1VhMmRZYJ5PPiHIJ78d1gW7haCY/edit?usp=share_link&ouid=102518298898107497590&rtpof=true&sd=true)
 
+### Readings/Videos
 
+- [Some history of Level Design: A short chapter from The Level Design Book, a very specific overview of early computer game level design.](https://drive.google.com/file/d/115gzN18dupkvFe-tCarKzo67QzIL33le/view?usp=sharing)
+- [Doug Church describing why we need Design Tools](https://www.gamedeveloper.com/design/formal-abstract-design-tools) (Spoiler: to make more unique games)!
+- [Katharine Neil speaking at GDC](https://www.youtube.com/watch?v=XPPtLNkVPWY) about the design tools that would push game design forward. She says game design tools should “support thinking. So your broken, ambiguous and even outright contradictory ideas that you have in your unfinished design … are tolerated and supported “ Katherine Neil game example: [Astrologaster](https://store.steampowered.com/app/742520/Astrologaster/).
+- ...more to come
+
+#### Textbooks
+
+I found these books very useful and inspiring. They are worth your money.
+
+Richard Lemarchand [A Playful Production Process](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991001318649405741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local Search Engine&tab=Books&query=any,contains,lemarchand&offset=0)
+Jesse Schell [Game Design: A Book of Lenses](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000144879705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local Search Engine&isFrbr=true&tab=Books&query=any,contains,schell&sortby=date_d&facet=frbrgroupid,include,9043480246430191355&offset=0)
+Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000634459705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local Search Engine&tab=Books&query=any,contains,ultimate guide to game design&offset=0)
 
 # Weekly Class Notes
 
 - [Week 1: Welcome, Class Overview, Q&A](week1.md)
 - [Week 2: Game Design Documnentation and First Project Details](week2.md)
 - [Week 3: Working on our Design Docs](week3.md)
-- 
+- ... more to come
 
 
 
