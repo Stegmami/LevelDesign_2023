@@ -7,8 +7,31 @@
 - [ ] ***Meet with ME some time before 2!***
 - [ ] Work session
 
-# Homework For Feb 7
-1. 3rd Draft of your Design Doc
-2. First draft of Unity project
+- [ ] Affordances in level design
+- [ ] Laying out your level
 
-Remember: goal is a level, not a whole game.  Text you can use paper for.  Your goal is to use spacial cues to guide your player to end of your area and back again.   This about [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/).  
+
+
+## Affordances
+
+Affordances are the relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used. It's an incredibly useful way of framing meaningful interaction and design.
+
+[This week's notes on affordances can be found here](https://docs.google.com/document/d/1cM6gRu3UiIJLMzR46rIrY0r0jVLIOhQw-GLGxIUmcEI/edit?usp=sharing)
+
+## Layout
+
+_Layout_ refers to a level's overall structure. Laying out a level might include the following phases:
+
+1. Pre-production
+2. Parti diagramming
+3. Bubble diagramming
+4. Floor plan development
+5. Markup
+
+[This week's notes on layout can be found here](https://docs.google.com/document/d/14Dg5UPLwQiIX4iHlQaLe4EajpjijYtQQzG-3eqzQKGQ/edit?usp=sharing)
+
+# Homework For Feb 7
+1. 3rd Draft of your Design Doc.     
+2. First draft of Unity project.   Very drafty!
+
+Remember: goal is a level, not a whole game.  Text you can use paper for.  Your goal is to use spacial cues to guide your player to end of your area and back again.     

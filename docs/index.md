@@ -68,7 +68,7 @@ and
 - [Some history of Level Design: A short chapter from The Level Design Book, a very specific overview of early computer game level design.](https://drive.google.com/file/d/115gzN18dupkvFe-tCarKzo67QzIL33le/view?usp=sharing)
 - [Doug Church describing why we need Design Tools](https://www.gamedeveloper.com/design/formal-abstract-design-tools) (Spoiler: to make more unique games)!
 - [Katharine Neil speaking at GDC](https://www.youtube.com/watch?v=XPPtLNkVPWY) about the design tools that would push game design forward. She says game design tools should “support thinking. So your broken, ambiguous and even outright contradictory ideas that you have in your unfinished design … are tolerated and supported “ Katherine Neil game example: [Astrologaster](https://store.steampowered.com/app/742520/Astrologaster/).
-- ...more to come
+- [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/).
 
 #### Textbooks
 
@@ -82,8 +82,9 @@ Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.e
 
 - [Week 1: Welcome, Class Overview, Q&A](week1.md)
 - [Week 2: Game Design Documnentation and First Project Details](week2.md)
-- [Week 3: Working on our Design Docs](week3.md)
-- ... more to come
+- [Week 3: Working on our Design Docs, Affordances and Layout documents](week3.md), 
+- [Week 4: Blocking a Level](week4.md)
+- 
 
 
 
