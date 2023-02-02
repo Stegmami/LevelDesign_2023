@@ -69,6 +69,7 @@ and
 - [Doug Church describing why we need Design Tools](https://www.gamedeveloper.com/design/formal-abstract-design-tools) (Spoiler: to make more unique games)!
 - [Katharine Neil speaking at GDC](https://www.youtube.com/watch?v=XPPtLNkVPWY) about the design tools that would push game design forward. She says game design tools should “support thinking. So your broken, ambiguous and even outright contradictory ideas that you have in your unfinished design … are tolerated and supported “ Katherine Neil game example: [Astrologaster](https://store.steampowered.com/app/742520/Astrologaster/).
 - [Emilia Schatz lead game designer at Naughty Dog](https://80.lv/articles/defining-environment-language-for-video-games/).
+- [Here is a webpage that might help you think of ideas.  It incliudes brainstorming, etc... it is for Puzzle levels, but the process of creation is same: Brainstorm, try things out....](https://www.gamedeveloper.com/design/designing-video-game-puzzles)
 
 #### Textbooks
 
