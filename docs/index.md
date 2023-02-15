@@ -85,6 +85,7 @@ Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.e
 - [Week 2: Game Design Documnentation and First Project Details](week2.md)
 - [Week 3: Working on our Design Docs, Affordances and Layout documents](week3.md), 
 - [Week 4: Blocking a Level](week4.md)
+- [Week 5: Playtesting!](week5.md)
 - 
 
 
