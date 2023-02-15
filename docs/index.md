@@ -79,6 +79,10 @@ Richard Lemarchand [A Playful Production Process](https://mica.primo.exlibrisgro
 Jesse Schell [Game Design: A Book of Lenses](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000144879705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local Search Engine&isFrbr=true&tab=Books&query=any,contains,schell&sortby=date_d&facet=frbrgroupid,include,9043480246430191355&offset=0)
 Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000634459705741&context=L&vid=01MICA_INST:MICA&lang=en&search_scope=Books&adaptor=Local Search Engine&tab=Books&query=any,contains,ultimate guide to game design&offset=0)
 
+
+
+### **You can rely on some of [these C# scripts for Unity](https://github.com/samsheffield/2D_Game_Design/tree/Fall_21/Standalone Scripts) if you want to work in 2D**
+
 # Weekly Class Notes
 
 - [Week 1: Welcome, Class Overview, Q&A](week1.md)
