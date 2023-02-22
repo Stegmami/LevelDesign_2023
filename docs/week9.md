@@ -11,15 +11,10 @@ _Environmental storytelling_ is an approach to narrative in levels that leverage
 [This week's notes on environmental storytelling can be found here](https://docs.google.com/document/d/1TIk6UilbaIHKjdrjSQzA6CrTsUEDxZTjBV1cAB1XFqE/edit?usp=sharing)
 
 ### Environmental Storytelling Workshop
-[In groups of three, In this assignment, you'll document environmental storytelling in the real world.](https://docs.google.com/document/d/1QYEntgYoMcLclkh6p0ujkFTmQDKFViRbuvftKca9vzQ/edit?usp=sharing)
+[In groups of three, In this assignment, you'll document environmental storytelling in the real world.](https://docs.google.com/document/d/1N0Qvhz9XYHQH_lgwz8Y3yWVhPeF677UonPiLgfE293E/edit?usp=sharing)
 
-## After dinner plans
-
-### Share Environmental Storytelling Workshop Results
-Let's have each group share the results of their environmental storytelling search.
-
-### Talk a little about Reward Spaces
-[So you want to design a maze?](https://docs.google.com/document/d/1vf_dKaOSmZCUURNAwoc_P90wIfHfiYX31e1iGdEkC-Q/edit?usp=sharing)
+### Reward and Denial Spaces
+[So you want to design a maze?](https://docs.google.com/document/d/18crHDyCzIOf8cxSrp67GbURlNZHbr0TtrTKc-bubU4Y/edit?usp=sharing) 
 
 # Homework
 

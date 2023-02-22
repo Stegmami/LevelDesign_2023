@@ -1,84 +1,93 @@
-# HELLO!
-Today, we'll meet as a group to...
-- Playtest level blockouts
+- # Week 6
 
-# Playtesting (Before dinner at 5:40)
-Take turns playtesting each other's games:
-- Host the playtest on your own computer
-- Observe your player and take notes
-- Conduct post-playtest interview
+  - [ ] Playtesting our Way Finding Level Experiments
+  - [ ] Discussing Wayfinding a bit
+  - [ ] Environmental Storytelling
+  - [ ] New project!  Narrative Level. Telling a story with the environment!  [Full project description and weekly goals can be found here](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing)
+  - [ ] Environmental Storytelling Workshop
+  - [ ] Lunch
+  - [ ] Work Session
 
-If I am unable to play your game before dinner, you can sign up for some time _after_ our dinner break [here](https://docs.google.com/spreadsheets/d/1NkQ9CR_hBparfNDYFr_HG559JDURdgEMQ9LJHPhJZnU/edit?usp=sharing). We can meet in-person or on Discord.
+  
 
-Note: This is an _optional meeting_. Sign up for the next available slot _before_ leaving for dinner and I will assign a specific time before the end of the break.
+  ## Playtesting
 
-## Playtesting Tips
+  What did you discover while watching people play?
+  What changes would you make to your level?
+  How could you have avoided issues?
+  					How could you have tested earlier?  What small bit of your level could you have developed to test?
+  					What diagram might have helped?  Would it have helped if you had iterated on your diagram more?
+  What woudl you do next if you had another week to work?  
 
-### Be prepared
-- Have post-playtest questions ready
-- Provide build notes with descriptions of controls, additional instructions, known bugs (and how to avoid/overcome them), and scope of playtest.
-- Have note taking materials
+  
 
-### Don't explain too much
-This is really difficult to do, but planning ahead of time and frequently playtesting can help it feel less awkward. Instead...
+  ## Wayfinding
 
-### Observe
-Watch your playtesters:
-- Provide instructions and guidance upfront. Key things should not be a mystery! 
-- If you're explaining or guiding a player it means something isn't clear or isn't working.
-- Don't distract your playtesters with conversation.
-- Don't interfere.
+  _Wayfinding_ refers to a process a player uses to find where they are, or where they are going.
 
-### Take notes
-Make sure that you are taking notes throughout the playtest:
-- What do you observe? What is a player's behavior? What do they say? What things didn't they understand?
-- Keep track of time (How long did it take to play?)
-- Follow-up after playtest on notable things you observe
-- You might find it helpful to record play sessions to review later
+  [This week's notes on wayfinding can be found here](https://docs.google.com/document/d/1gakpRNYMtASqna3dEM5UkXsvnOkA6TXPy9OjydMu23U/edit#)
 
-### Post-Playtest Interview
-Have a small number of questions to ask your playtesters after they finish. If necessary, ask additional questions based on what you observed.
+  ## Environmental Storytelling
 
-- Prepare your questions beforehand
-- Don't overwhelm your playtesters
-- Don't be defensive
-- Don't explain
-- Avoid technical game dev jargon
-- Write down answers
+  _Environmental storytelling_ is an approach to narrative in levels that leverages a space and the objects contained within it. It asks the question, “what happened here?”
 
-[Google Forms](https://www.google.com/forms/about/) is pretty good for this and easy to set up. 
+  [This week's notes on environmental storytelling can be found here](https://docs.google.com/document/d/1TIk6UilbaIHKjdrjSQzA6CrTsUEDxZTjBV1cAB1XFqE/edit?usp=sharing)
 
-### Evaluate your playtest
-Don't forget to assess your playtest and determine how to move forward:
-- What was successful and how can you amplify this?
-- What can you actually fix?
-- What should be removed because it doen't work and can't be fixed?
+  ## Environmental Storytelling Workshop
 
-# Homework
+  [In groups of three, In this assignment, you'll document environmental storytelling in the real world.](https://docs.google.com/document/d/1N0Qvhz9XYHQH_lgwz8Y3yWVhPeF677UonPiLgfE293E/edit?usp=sharing)
 
-## Upload This Week's Homework
-Haven't uploaded the level blockout and sandbox scenes to your class Drive folder yet? Do it today for full credit.
+  
 
-## Prototype 1: Complete Week 3 Goals (Due 03/01) 
+  
 
-Complete development of your level and upload Mac & PC builds to your Google Drive folder by the start of class on 03/01. Final playtesting will take place in-class and online for homework next week.
+  ## Prototype 2: Narrative Level (Due 04/05)
 
-### Deliverable
-- Tested Mac & PC builds of your level uploaded to your Google Drive folder. Sharing needs to be turned on.
-- Build notes: A readme.txt file which includes instructions, controls, and list of known bugs
-- A playtesting form using Google Forms to collect playtesting feedback
+  Using your level design construction kit, build a single level which communicates these 3 specific facts to your player:
 
-Upload links to a folder with tested builds & playtesting forms shared on the MICA Game Lab Discord (__this is not our class Discord__) in one of the playtesting text channels. Here's a link to join that server if you did not do so already ([link](https://discord.com/invite/hpGgwpX8sQ)) Include a screenshot of your game which is not a title screen with your post. 
+  1. Something that happened to the protagonist of the game in the past.
 
+  2. Something that happened to a character who is somehow related to the protagonist (for instance: a sibling, friend, enemy, or rival).
 
-## WEDNESDAY: Bo Ruberg talk on Wednesday (02/23) @ 2:30!!
+  3. Something about the world in which the game takes place.
 
-__Video Games to Play after the End of the World: Queer Visions of the Post-Apocalypse__
+  __You are encouraged to work in self-selected pairs for this prototype.__
 
-In this talk, Prof. Bo Ruberg will discuss the rich intersections between queerness and video games. After offering an introduction to queer game studies and queer indie make making, they will dive into the topic of apocalypses and post-apocalypses in video games. Apocalyptic themes are pervasive across game genres. Now, under the shadow of climate collapse and the current pandemic, a growing number of independent queer and trans game designers are using scenes of the end of the world to explore alternate forms of identity, community, and society. Here, Ruberg explains how apocalypses and post-apocalypses take on queer meaning in video games, and how they show us the possibility for creating a new, queerer world after the one that we know today has ended.
+  [Full project description and weekly goals can be found here](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing)
 
-And here's a bio:
+  
 
-Dr. Bo Ruberg (they/them) is an associate professor in the Department of Film and Media Studies and an affiliate faculty member in the Department of Informatics at the University of California, Irvine, as well as the incoming co-editor of the Journal of Cinema and Media Studies. Their research explores gender and sexuality in digital media and digital cultures. They are the author of three monographs: Video Games Have Always Been Queer (NYU Press, 2019), The Queer Games Avant-Garde: How LGBTQ Game Makers Are Reimagining the Medium of Video Games (2020), and Sex Dolls at Sea: Imagined Histories of Sexual Technologies (MIT Press, 2022). They are also the co-editor of Queer Game Studies (University of Minnesota Press, 2017) and Live Streaming Culture (MIT Press, forthcoming). 
+  ## After lunch
 
-Open to current MICA students. __Check #announcements on Discord for Zoom invite__
+  ### Work session Begin brainstorming and partner finding
+
+  Your brainstorming goals for tonight:
+
+  - What's your level's overall concept?
+  - What are your 3 facts?
+  - What diagrams will help you?
+  - Draft some very drafty GDD, UX text, Bubble diagram, Grey Box/Blocking...  Think with your pens
+
+  # Homework
+
+  ## Brainstorming documentation
+
+  Make sure your DevLog contains your brainstorming drafts and 3 the facts your player will discober by the end of class.
+
+  For next week:
+
+  ### **Week 2 Goals (03/01)**
+
+  **Pre-production goals:**
+
+  - What are your player experience goals for your level?
+  - What is the pillar (central player experience goal) for your level?
+  - What else do you want in your level?
+
+  **Layout goals:**
+
+  - Develop 6 parti thumbnails/sketches (quick ideas)
+  - Develop 3 bubble diagrams based on the partis you find most interesting
+  - Develop a floor plan based on your most promising bubble diagram with details on encounters, mechanics, important game objects, and your level’s critical path
+
+  [Full project description and weekly goals can be found here](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing) 

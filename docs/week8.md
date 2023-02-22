@@ -1,17 +1,49 @@
-# HELLO!
-Today, we'll meet as a group to...
-- Wayfinding
-- Discuss Prototype 2
+# Week 6
+- [ ] Playtesting our Way Finding Level Experiments
+- [ ] Discussing Wayfinding a bit
+- [ ] Environmental Storytelling
+- [ ] New project!  Narrative Level. Telling a story with the environment!  [Full project description and weekly goals can be found here](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing)
+- [ ] Environmental Storytelling Workshop
+- [ ] Lunch
+- [ ] Work Session
 
-## Still reviewing Prototype 1
-I'm still reviewing your prototypes, recording playthroughs, and taking notes. Looks like I will be finishing them up during Spring Break!
+
+
+## Playtesting
+
+What did you discover while watching people play?
+What changes would you make to your level?
+How could you have avoided issues?
+					How could you have tested earlier?  What small bit of your level could you have developed to test?
+					What diagram might have helped?  Would it have helped if you had iterated on your diagram more?
+What woudl you do next if you had another week to work?  
+
+
 
 ## Wayfinding
+
 _Wayfinding_ refers to a process a player uses to find where they are, or where they are going.
 
-[This week's notes on wayfinding can be found here](https://docs.google.com/document/d/19BtLMW8quQ6ePuEEcPJWKDVTG2F-PcFbNF37MKz_gg8/edit?usp=sharing)
+[This week's notes on wayfinding can be found here](https://docs.google.com/document/d/1gakpRNYMtASqna3dEM5UkXsvnOkA6TXPy9OjydMu23U/edit#)
+
+## Environmental Storytelling
+
+_Environmental storytelling_ is an approach to narrative in levels that leverages a space and the objects contained within it. It asks the question, “what happened here?”
+
+[This week's notes on environmental storytelling can be found here](https://docs.google.com/document/d/1TIk6UilbaIHKjdrjSQzA6CrTsUEDxZTjBV1cAB1XFqE/edit?usp=sharing)
+
+## Environmental Storytelling Workshop
+
+[In groups of three, In this assignment, you'll document environmental storytelling in the real world.](https://docs.google.com/document/d/1N0Qvhz9XYHQH_lgwz8Y3yWVhPeF677UonPiLgfE293E/edit?usp=sharing)
+
+### Reward and Denial Spaces
+
+[So you want to design a maze?](https://docs.google.com/document/d/18crHDyCzIOf8cxSrp67GbURlNZHbr0TtrTKc-bubU4Y/edit?usp=sharing) 
+
+
 
 ## Prototype 2: Narrative Level (Due 04/05)
+
 Using your level design construction kit, build a single level which communicates these 3 specific facts to your player:
 1. Something that happened to the protagonist of the game in the past.
 
@@ -19,28 +51,40 @@ Using your level design construction kit, build a single level which communicate
 
 3. Something about the world in which the game takes place.
 
-__You are allowed to work in self-selected pairs for this prototype (combining components from level construction kits).__
+__You are encouraged to work in self-selected pairs for this prototype.__
 
-[Full project description and weekly goals can be found here](https://docs.google.com/document/d/10SOlnJ3AiukhnhhnzT45BBmnjZ1IIg7qq_P4MQjpfzw/edit?usp=sharing)
+[Full project description and weekly goals can be found here](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing)
 
-## After dinner plans
-### Begin brainstorming
+
+
+## After lunch
+
+### Work session Begin brainstorming and partner finding
 Your brainstorming goals for tonight:
 - What's your level's overall concept?
 - What are your 3 facts?
-- What assets do you need to reskin or make?
-
-### Need assistance?
-- Having any issues? 
-- Want to talk about Prototype 1? 
-
-Sign up for some time _after_ our dinner break [here](https://docs.google.com/spreadsheets/d/1NkQ9CR_hBparfNDYFr_HG559JDURdgEMQ9LJHPhJZnU/edit?usp=sharing). We can meet in-person or on Discord.
+- What diagrams will help you?
+- Draft some very drafty GDD, UX text, Bubble diagram, Grey Box/Blocking...  Think with your pens
 
 # Homework
 
 ## Brainstorming documentation
-Email me a document with your brainstorming ideas and 3 facts by the end of the night (_ideal_) or by Friday (_at absolute latest_).
+Make sure your DevLog contains your brainstorming drafts and 3 the facts your player will discober by the end of class.
 
-## Spring Break
-Enjoy a nice Spring Break everyone! Don't work on any Level Design related work.
+For next week:
 
+### **Week 2 Goals (03/01)**
+
+**Pre-production goals:**
+
+- What are your player experience goals for your level?
+- What is the pillar (central player experience goal) for your level?
+- What else do you want in your level?
+
+**Layout goals:**
+
+- Develop 6 parti thumbnails/sketches (quick ideas)
+- Develop 3 bubble diagrams based on the partis you find most interesting
+- Develop a floor plan based on your most promising bubble diagram with details on encounters, mechanics, important game objects, and your level’s critical path
+
+[Full project description and weekly goals can be found here](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing) 
