@@ -91,7 +91,10 @@ Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.e
 - [Week 4: Blocking a Level](week4.md)
 - [Week 5: Playtesting!](week5.md)
 - [Week 6: Playtesting, Wayfinding, starting Narrative Level Prototyoe 2](week6.md)
-- Week 7: Mazes Reward spaces, Denial spaces and more environmental Design discussion
+- [Week 7: Mazes Reward spaces, Denial spaces and more environmental Design discussion](week7.md)
+- Week 8: Review and Work Session. (Playtesting)
+- Week 9: Spring Break!
+- Week 10: Proj 2 due. Play testing
 
 [Prototype 2: Full description and weekly goals](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing)
 
