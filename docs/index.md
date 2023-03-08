@@ -117,9 +117,9 @@ Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.e
 | 11   | March 29, 2023         |                                     | playtest                               | **Final Project Due**                                   <br />Start project 3 in class | Level Design Exercise  3     |
 | 12   | April 5, 2023          | Play Some Games                     |                                        | Paper draft of a level design doc<br />Technical description of your Unity project<br /> | Level Design Exercise  3     |
 | 13   | April 12, 2023         |                                     | playtest                               | 2nd Draft GDD<br/>First draft of Unity playable              | Level Design Exercise  3     |
-| 14   | **April 19, 2023**     | ****                                | playtest                               | 3rd Draft GDD<br/>Second draft of Unity playable****         | **Level Design Exercise  3** |
-| 15   | April 26, 2023         |                                     |                                        | First Unity draft<br />                                      | Bonus Project                |
-| 16   | **May 3, 2023**        | ****                                | **playtest**                           | **Final Unity draft**                                        | **Bonus Project**            |
+| 14   | **April 19, 2023**     | ****                                | playtest                               | 3rd Draft GDD<br/>Second draft of Unity playable****         | Level Design Exercise  3     |
+| 15   | April 26, 2023         |                                     | **playtest**                           | **Final Unity draft**                                        | **Level Design Exercise  3** |
+| 16   | **May 3, 2023**        | ****                                |                                        |                                                              |                              |
 
 
 
