@@ -94,9 +94,12 @@ Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.e
 - [Week 7: Mazes Reward spaces, Denial spaces and more environmental Design discussion](week7.md)
 - Week 8: Review and Work Session. (Playtesting)
 - Week 9: Spring Break!
-- [Week 10: Proj 2 due. Play testing](Week 9 March 22, 2023)
+- [Week 10: Proj 2 due. Play testing](Week 9 March 22, 2023)   [Prototype 2: Full description and weekly goals](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing)
+- [Week 11: No, really, Project 2 is due and we playtestit!    Additionally, Project 3 starts!](Week 11 Mine)
 
-[Prototype 2: Full description and weekly goals](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing)
+
+
+
 
 
 

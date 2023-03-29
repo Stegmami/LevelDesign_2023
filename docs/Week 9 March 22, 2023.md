@@ -22,9 +22,9 @@ We discussed the games and how the genra and the understood rules of the game, t
 
 A more intricate experience is more engaging for our players.  Players want to be engaged in a worthy problem.  Players want to feel clever!  Making our player feel clever means the problems need to seem hard enough to be worth solving and the player also needs to feel capable of soving them.  Today we decided that we can create complex interesting games for our target audience by using 
 
-1) game mechanics they are familiar with
+1) Game mechanics they are familiar with
 1) Stories/myth/culture they are familiar with
-1) ading a new twist to the story or a challenge on top of the familiar game mechanics
+1) Adding a new twist to the story or a challenge on top of the familiar game mechanics
 
 This way, the whole game is complex and the player needs to draw on their knowledge to succeed, but the only really new part is 3. the new twist/new mechanic.  
 
@@ -44,7 +44,7 @@ We will meet in Game Lab for the morning.  From 9 - 11 We will <u>prepare for pl
 							Observations you make and notes you take
 
 **THREE:**  <u>To be prepared for playtesting</u>, I want you to have a plan to collect 2 peices of data for each conclusion you make.  For example, if you want to say "My players understand that the cat is theirs." give me two kinds of data that prove this.  
-I want you to choose a few statements you want to prove.  Obviously, I want you to fous on whether your players are understanding your environmental storytelling!		
+I want you to choose a few statements you want to prove.  Obviously, I want you to focus on whether your players are understanding your environmental storytelling!		
 
 **FOUR:**  After lunch, noon - 2 we will met in the Classroom in the library.  Half of us will set up to playtest and the other half of us will attract playtesters and bring them back to the library.
 
