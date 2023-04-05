@@ -86,22 +86,30 @@ Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.e
 # Weekly Class Notes
 
 - [Week 1: Welcome, Class Overview, Q&A](week1.md)
+
 - [Week 2: Game Design Documnentation and First Project Details](week2.md)
+
 - [Week 3: Working on our Design Docs, Affordances and Layout documents](week3.md), 
+
 - [Week 4: Blocking a Level](week4.md)
+
 - [Week 5: Playtesting!](week5.md)
+
 - [Week 6: Playtesting, Wayfinding, starting Narrative Level Prototyoe 2](week6.md)
+
 - [Week 7: Mazes Reward spaces, Denial spaces and more environmental Design discussion](week7.md)
+
 - Week 8: Review and Work Session. (Playtesting)
+
 - Week 9: Spring Break!
+
 - [Week 10: Proj 2 due. Play testing](Week 9 March 22, 2023)   [Prototype 2: Full description and weekly goals](https://docs.google.com/document/d/1wV9vMyrQxKTSZ3UCblDTb7LCRzuUmkaj3m2Ym7TSezs/edit?usp=sharing)
+
 - [Week 11: No, really, Project 2 is due and we playtestit!    Additionally, Project 3 starts!](Week 11 Mine)
 
+- [Week 12: Discuss playtesting and choose teams for Project 3](week 12 Mine)
 
-
-
-
-
+  
 
 # Schedule
 
