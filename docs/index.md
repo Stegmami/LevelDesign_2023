@@ -107,7 +107,9 @@ Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.e
 
 - [Week 11: No, really, Project 2 is due and we playtestit!    Additionally, Project 3 starts!](Week 11 Mine)
 
-- [Week 12: Discuss playtesting and choose teams for Project 3](week 12 Mine)
+- [Week 12: Discuss playtesting and choose teams for Project 3
+
+- [Week 13: Difficulty and levels](week13.md)
 
   
 
