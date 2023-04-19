@@ -6,7 +6,7 @@ Today, we'll meet as a group to...
 [This week's notes on difficulty and assessment can be found here](https://docs.google.com/document/d/1SUazaQ5Oe_aM-TiMH_Dc01iA0rnZ71wQIMvQle3cvyk/edit?usp=sharing)
 
 ### Work session 
-The remainder of class tonight will be dedicated to working on prototype 3. You can do this in-person, or remotely, if you coordinate with your team.
+The remainder of class tonight will be dedicated to working on prototype 3. 
 
 # Homework
 

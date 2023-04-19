@@ -109,7 +109,9 @@ Flint Dille [The Ultimate Guide to Game Writing and Design](https://mica.primo.e
 
 - [Week 12: Discuss playtesting and choose teams for Project 3](Week 12 Mine)
 
-- [Week 13: Difficulty and levels](week13.md)
+- [Week 13: Difficulty and levels
+
+- [Week 14: Playtesting our 3 levels of clues](Week 14 Mine.md)
 
   
 
